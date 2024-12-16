@@ -1,0 +1,564 @@
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.exe
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.deps.json
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.pdb
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\refint\QUANLYKHO.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.pdb
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\ref\QUANLYKHO.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdonvido.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnguoidung.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnhaphang.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formvattu.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formxuathang.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmKhachHang.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdangnhap.resources
+C:\Users\Admin\Desktop\New folder\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.FormHome.resources
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.exe
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.deps.json
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.runtimeconfig.json
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.pdb
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.AssemblyReference.cache
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.ResolveComReference.cache
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdangnhap.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdonvido.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.FormHome.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmKhachHang.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnguoidung.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmNhaCungCap.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnhaphang.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formvattu.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formxuathang.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Properties.Resources.resources
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.GenerateResource.cache
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfoInputs.cache
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfo.cs
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CoreCompileInputs.cache
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.Up2Date
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.dll
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\refint\QUANLYKHO.dll
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.pdb
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.genruntimeconfig.cache
+D:\Project\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\ref\QUANLYKHO.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.exe
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.deps.json
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.runtimeconfig.json
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.pdb
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.AssemblyReference.cache
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.ResolveComReference.cache
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdangnhap.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdonvido.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.FormHome.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmKhachHang.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnguoidung.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmNhaCungCap.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnhaphang.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formvattu.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formxuathang.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Properties.Resources.resources
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.GenerateResource.cache
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.GeneratedMSBuildEditorConfig.editorconfig
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfoInputs.cache
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfo.cs
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CoreCompileInputs.cache
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.Up2Date
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\refint\QUANLYKHO.dll
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.pdb
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.genruntimeconfig.cache
+E:\lasagna.bolognese\study\hau\c#\final pro\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\ref\QUANLYKHO.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.AssemblyReference.cache
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.ResolveComReference.cache
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdangnhap.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdonvido.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.FormHome.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmKhachHang.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnguoidung.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmNhaCungCap.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnhaphang.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formvattu.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formxuathang.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Properties.Resources.resources
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.GenerateResource.cache
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfoInputs.cache
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfo.cs
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CoreCompileInputs.cache
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\refint\QUANLYKHO.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.pdb
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.exe
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.deps.json
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.runtimeconfig.json
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.pdb
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.Up2Date
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.genruntimeconfig.cache
+D:\C# 21CN1\Nhom3_21CN1\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\ref\QUANLYKHO.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.exe
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.deps.json
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.runtimeconfig.json
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.pdb
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.AssemblyReference.cache
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.ResolveComReference.cache
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdangnhap.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdonvido.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.FormHome.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmKhachHang.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnguoidung.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmNhaCungCap.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnhaphang.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formvattu.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formxuathang.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Properties.Resources.resources
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.GenerateResource.cache
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfoInputs.cache
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfo.cs
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CoreCompileInputs.cache
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.Up2Date
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\refint\QUANLYKHO.dll
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.pdb
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.genruntimeconfig.cache
+D:\C# 21CN1\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\ref\QUANLYKHO.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.exe
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.deps.json
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.runtimeconfig.json
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\QUANLYKHO.pdb
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.AssemblyReference.cache
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.ResolveComReference.cache
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdangnhap.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formdonvido.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.FormHome.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmKhachHang.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnguoidung.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.frmNhaCungCap.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formnhaphang.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formvattu.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Formxuathang.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.Properties.Resources.resources
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.GenerateResource.cache
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.GeneratedMSBuildEditorConfig.editorconfig
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfoInputs.cache
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.AssemblyInfo.cs
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.CoreCompileInputs.cache
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.csproj.Up2Date
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\refint\QUANLYKHO.dll
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.pdb
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\QUANLYKHO.genruntimeconfig.cache
+C:\QuanLyKhoYte2\QuanLyKho\QUANLYKHO\QUANLYKHO\obj\Debug\net6.0-windows\ref\QUANLYKHO.dll
